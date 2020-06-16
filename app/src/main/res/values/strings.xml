@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ytmp3</string>
+    <string name="notification_channel">ytmp3</string>
+</resources>
